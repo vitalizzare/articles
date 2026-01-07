@@ -1,3 +1,8 @@
+```lang-none
+jupyter-notebook : 6.1.4
+ipykernel        : 5.3.4
+```
+
 # Overriding the `input` function in Jupyter Notebook
 
 Consider a long-running Jupyter Notebook that pauses execution several times to ask for user input — perhaps to make decisions or perform physical connections. You might want to start the notebook, walk away, and be alerted only when input is required. One way to do this is to override `input` so that it emits an audible notification when a prompt is reached.
