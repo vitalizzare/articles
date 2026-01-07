@@ -1,7 +1,7 @@
 ## Notes about IPython and Jupyter Notebook
 
 * [Ipython Notebook: programmatically read and execute cells][1]
-* How to substitute the input functions in Jupyter Notebook
+* [Overriding the `input` function in Jupyter Notebook][2]
   
 ## Math problems
 
@@ -10,3 +10,4 @@
 
 
   [1]: ./ipython-jupyter/ipython-notebook-programmatically-read-and-execute-cells.md
+  [2]: ./ipython-jupyter/user_input_in_jupyter_notebook.md
