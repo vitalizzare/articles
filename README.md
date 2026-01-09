@@ -11,6 +11,6 @@
 
 
   [1]: ./ipython-jupyter/ipython-notebook-programmatically-read-and-execute-cells.md
-  [2]: ./ipython-jupyter/user_input_in_jupyter_notebook.md
+  [2]: ./ipython-jupyter/user-input-in-jupyter-notebook.md
   [3]: ./math/counting-reachable-grid-points-under-digit-sum-limits.ipynb
-  [4]: ./math/minkowski_measure_of_unit_circles_length.ipynb
+  [4]: ./math/minkowski-measure-of-unit-circles-length.ipynb
