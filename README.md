@@ -18,4 +18,4 @@
   [2]: ./ipython-jupyter/user-input-in-jupyter-notebook.md
   [3]: ./math/counting-reachable-grid-points-under-digit-sum-limits.ipynb
   [4]: ./math/minkowski-measure-of-unit-circles-length.ipynb
-  [5]: ./python/decorator-and-function-with-the-same-names.md
+  [5]: ./python/decorator-and-function-with-the-same-names-en.md
